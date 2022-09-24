@@ -1,0 +1,27 @@
+{
+  "price": 2.0,
+  "number": 2222,
+  "gatekeeper": null,
+  "creators": [
+    {
+      "address": "A6RmGcF2TdAjXNfHX5RUWNVEhaupBqGdSLfxDcdZ9st2",
+      "share": 100
+    }
+  ],
+  "solTreasuryAccount": "A6RmGcF2TdAjXNfHX5RUWNVEhaupBqGdSLfxDcdZ9st2",
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": "2022-09-23T19:06:55.142769100+00:00",
+  "endSettings": null,
+  "whitelistMintSettings": null,
+  "hiddenSettings": null,
+  "freezeTime": null,
+  "uploadMethod": "nft_storage",
+  "retainAuthority": true,
+  "isMutable": true,
+  "symbol": "DH",
+  "sellerFeeBasisPoints": 10,
+  "awsConfig": null,
+  "nftStorageAuthToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweGUzOUQzOTE3OTg1YkQ4ZEMzNDMzY0VkMDI4Q2ZmNDAyNzkzNzRlOTQiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY2Mzk2MDIzMDI2NywibmFtZSI6IlY0In0.c9Vjv3-lAqrC5rxE1I6t51LExwAgdsLfAPNz1l_WMXg",
+  "shdwStorageAccount": null
+}
